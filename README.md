@@ -1,12 +1,49 @@
-# React + Vite
+# Taller Expert Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto desarrollado como evidencia del SENA.
 
-Currently, two official plugins are available:
+## 👨‍💻 Integrantes
+- Jesús David Arias Durán
+- Esteban Eduardo Rincón Castro
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ficha de caracterización: **2977421**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/thejarias11/taller-expert-frontend.git
+Entrar en la carpeta:
+
+bash
+Copy code
+cd taller-expert-frontend
+Instalar dependencias:
+
+bash
+Copy code
+npm install
+Ejecutar el servidor:
+
+bash
+Copy code
+npm run dev
+La aplicación quedará corriendo en:
+http://localhost:5173
+
+🌐 Deploy en Vercel
+El proyecto también está disponible en línea:
+👉 Abrir aplicación en Vercel https://taller-expert-frontend.vercel.app/            
+
+📌 Descripción del proyecto
+Se desarrolló una aplicación frontend sencilla con React que contiene:
+
+Página de inicio con logo y descripción del taller.
+
+Página de servicios con los principales servicios de mecánica.
+
+Página de contacto con la información de la ficha y aprendices.
+
+Navegación responsive adaptada a móviles y tablets.
