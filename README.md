@@ -19,7 +19,7 @@ Incluye navegación (Inicio, Servicios, Contacto), diseño responsivo (PC / tabl
 ## Enlaces:
 - **Repositorio (GitHub):** `https://github.com/USUARIO/taller-expert-frontend](https://github.com/thejarias11/taller-expert-frontend.git`  
 - **Demo Vercel:** `https://TU-APP.vercel.app](https://taller-expert-frontend.vercel.app/`  
-- **Descarga (.zip) en Drive:** `https://drive.google.com/…](https://drive.google.com/file/d/1rEqyWor4BQ0IsPUpEaY98uchFgDkGEHm/view?usp=sharing`
+- **Descarga (.zip) en Drive:** `[https://drive.google.com/…](https://drive.google.com/file/d/1rEqyWor4BQ0IsPUpEaY98uchFgDkGEHm/view?usp=sharing](https://drive.google.com/file/d/1rEqyWor4BQ0IsPUpEaY98uchFgDkGEHm/view?usp=sharing)`
 
 ---
 
