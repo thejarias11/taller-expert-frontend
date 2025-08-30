@@ -20,16 +20,24 @@ Entrar en la carpeta:
 bash
 Copy code
 cd taller-expert-frontend
+
+
 Instalar dependencias:
 
 bash
 Copy code
 npm install
+
+
+
 Ejecutar el servidor:
 
 bash
 Copy code
 npm run dev
+
+
+
 La aplicación quedará corriendo en:
 http://localhost:5173
 
