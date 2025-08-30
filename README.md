@@ -10,16 +10,16 @@
 
 ---
 
-## Resumen
+## 📌 Descripción del proyecto
 Aplicación frontend construida con **React + Vite** para la gestión visual del *Taller Expert*.  
 Incluye navegación (Inicio, Servicios, Contacto), diseño responsivo (PC / tablet / móvil) y contenido descriptivo para la entrega de la evidencia 3.
 
 ---
 
-## Enlaces (colocar los reales)
-- **Repositorio (GitHub):** `https://github.com/USUARIO/taller-expert-frontend`  
-- **Demo (Vercel / Netlify):** `https://TU-APP.vercel.app`  
-- **Descarga (.zip) en Drive:** `https://drive.google.com/…`
+## Enlaces:
+- **Repositorio (GitHub):** `https://github.com/USUARIO/taller-expert-frontend](https://github.com/thejarias11/taller-expert-frontend.git`  
+- **Demo Vercel:** `https://TU-APP.vercel.app](https://taller-expert-frontend.vercel.app/`  
+- **Descarga (.zip) en Drive:** `https://drive.google.com/…](https://drive.google.com/file/d/1rEqyWor4BQ0IsPUpEaY98uchFgDkGEHm/view?usp=sharing`
 
 ---
 
@@ -39,41 +39,27 @@ Incluye navegación (Inicio, Servicios, Contacto), diseño responsivo (PC / tabl
    ```bash
    git clone https://github.com/thejarias11/taller-expert-frontend.git
 2. Entrar en la carpeta:
-
- ```bash
-cd taller-expert-frontend
-
-
+    ```bash
+   cd taller-expert-frontend
 3. Instalar dependencias:
+   ```bash
+   npm install
 
- ```bash
+4. Ejecutar el servidor:
+   ```bash
+   npm run dev
 
-npm install
-
-
-
-Ejecutar el servidor:
-
- ```bash
-
-npm run dev
-
-
-
-La aplicación quedará corriendo en:
-http://localhost:5173
+5. La aplicación quedará corriendo en:
+    ```bash
+      http://localhost:5173
 
 🌐 Deploy en Vercel
 El proyecto también está disponible en línea:
-👉 Abrir aplicación en Vercel https://taller-expert-frontend.vercel.app/            
+       ```
+   👉 Abrir aplicación en Vercel https://taller-expert-frontend.vercel.app/       
 
-📌 Descripción del proyecto
-Se desarrolló una aplicación frontend sencilla con React que contiene:
+Notas finales para el profesor
 
-Página de inicio con logo y descripción del taller.
+Si prefiere no instalar nada, abra el enlace de la demo (Vercel) y podrá revisar la aplicación directamente en el navegador. Si desea ejecutar localmente y necesita ayuda, contáctenos y con gusto le asistimos paso a paso
 
-Página de servicios con los principales servicios de mecánica.
 
-Página de contacto con la información de la ficha y aprendices.
-
-Navegación responsive adaptada a móviles y tablets.
