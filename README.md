@@ -1,12 +1,35 @@
-# Taller Expert Frontend
 
-Proyecto desarrollado como evidencia del SENA.
 
-## 👨‍💻 Integrantes
-- Jesús David Arias Durán
+# Taller Expert - Frontend GA7-220501096-AA4-EV123
+
+**Autores:**  
+- Jesús David Arias Durán  
 - Esteban Eduardo Rincón Castro
 
-Ficha de caracterización: **2977421**
+**Ficha de caracterización:** **2977421**
+
+---
+
+## Resumen
+Aplicación frontend construida con **React + Vite** para la gestión visual del *Taller Expert*.  
+Incluye navegación (Inicio, Servicios, Contacto), diseño responsivo (PC / tablet / móvil) y contenido descriptivo para la entrega de la evidencia 3.
+
+---
+
+## Enlaces (colocar los reales)
+- **Repositorio (GitHub):** `https://github.com/USUARIO/taller-expert-frontend`  
+- **Demo (Vercel / Netlify):** `https://TU-APP.vercel.app`  
+- **Descarga (.zip) en Drive:** `https://drive.google.com/…`
+
+---
+
+## Requisitos previos (para el evaluador)
+- Node.js 18+ y npm instalados.
+- (Opcional) Cuenta en GitHub si quiere clonar desde ahí.
+
+---
+
+## Ejecución local — pasos claros (recomendado)
 
 ---
 
@@ -15,25 +38,24 @@ Ficha de caracterización: **2977421**
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/thejarias11/taller-expert-frontend.git
-Entrar en la carpeta:
+2. Entrar en la carpeta:
 
-bash
-Copy code
+ ```bash
 cd taller-expert-frontend
 
 
-Instalar dependencias:
+3. Instalar dependencias:
 
-bash
-Copy code
+ ```bash
+
 npm install
 
 
 
 Ejecutar el servidor:
 
-bash
-Copy code
+ ```bash
+
 npm run dev
 
 
