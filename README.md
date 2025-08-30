@@ -25,7 +25,7 @@ Incluye navegación (Inicio, Servicios, Contacto), diseño responsivo (PC / tabl
      https://taller-expert-frontend.vercel.app/  
 - **Descarga (.zip) en Drive:** `
   ```bash
-  https://drive.google.com/file/d/1rEqyWor4BQ0IsPUpEaY98uchFgDkGEHm/view?usp=sharing](https://drive.google.com/file/d/1rEqyWor4BQ0IsPUpEaY98uchFgDkGEHm/view?usp=sharing)`
+   https://drive.google.com/file/d/1dSOj66LhFihcmn7VZmuwhL9lSIoEwUt5/view?usp=sharing
 
 ---
 
